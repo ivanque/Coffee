@@ -1,0 +1,5 @@
+== Hello there!
+That's just another Ruby dice game.
+To start with, just clone this repo to your computer...
+  git clone https://github.com/ivanque/Coffee.git
+...and you're done! 
