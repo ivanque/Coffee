@@ -17,5 +17,6 @@ dice
 
 # Test 
 
-la = ->(a) { puts a ** 2}
-la.call(2)
+def test
+	puts "Test"
+end
