@@ -15,3 +15,7 @@ end
 
 dice
 
+# Test 
+
+la = ->(a) { puts a ** 2}
+la.call(2)
